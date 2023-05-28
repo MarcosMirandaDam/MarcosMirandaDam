@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 !!
+
+I´m Marcos Miranda, I started in the world of multiplatform application development in 2020. I continue to learn and dedicate my effort with insistence, persistence and perseverance.
+
+
+![image](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/5d46d760-a5e4-45e8-83cd-f8c417b83f0f)
+https://fpdistancia.educastur.es/course/index.php?categoryid=98
+
+
 
 <!--
 **MarcosMirandaDam/MarcosMirandaDam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
