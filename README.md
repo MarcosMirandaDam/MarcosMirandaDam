@@ -8,8 +8,7 @@ Develop, implement, document and maintain multiplatform computer applications, u
 https://fpdistancia.educastur.es/course/index.php?categoryid=98
 
 ### Below I will detail the skills already acquired with positive academic certification:
-![image](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/f14852ea-b500-4591-997a-4ab84c170b93)
-[Lenguajes de marcas y sistemas de gestión de información](https://fpdistancia.educastur.es/enrol/index.php?id=410)
+![image](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/f14852ea-b500-4591-997a-4ab84c170b93) [Lenguajes de marcas y sistemas de gestión de información](https://fpdistancia.educastur.es/enrol/index.php?id=410)
 
 
 
