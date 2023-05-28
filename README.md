@@ -31,9 +31,16 @@ Empresa e iniciativa Emprendedora ![eie](https://github.com/MarcosMirandaDam/Mar
 Lengua extranjera para uso profesional- Informática y Telecomunicaciones
 
 ### Siguientes aptitudes a obtener:
+
 Programación multimedia y dispositivos móviles
+
 Programación de servicios y procesos
+
 Proyecto de desarrollo de aplicaciones multiplataforma
+
+###Follow me at....
+
+
 
 
 
