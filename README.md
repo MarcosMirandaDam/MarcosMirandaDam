@@ -20,15 +20,15 @@ Programación  ![java](https://github.com/MarcosMirandaDam/MarcosMirandaDam/asse
 
 Entornos de Desarrollo  ![diagrams](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/4b9a5f09-6c29-44dd-bdbc-66a8b9bb406a)![neatbeans](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/d4d72872-d616-4fb0-b7a2-b9c4ba55a674)![eclipse](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/915b0457-bb1c-4b77-9901-741372308ab8)
 
-Sistemas de gestión empresarial ![icons8-postgresql-48](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/f901ba3f-64ef-4b35-a975-5036d799e786)![odoo](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/841296f2-6fb7-4cc8-a150-240c7c830f26)![phpmyadmin](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/ee84e062-a130-442c-a980-264c97588c38)
+Sistemas de gestión empresarial ![icons8-postgresql-48](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/f901ba3f-64ef-4b35-a975-5036d799e786)![odoo](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/841296f2-6fb7-4cc8-a150-240c7c830f26)![phpmyadmin](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/ee84e062-a130-442c-a980-264c97588c38)![dolibarr](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/a806c843-3d8d-4433-a8d2-9c6fcc65f621)
 
-Sistemas Informáticos 
+Sistemas Informáticos ![sistemasInformaticos](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/6a6cf61b-2527-4254-becc-cc9fa05a1257)
 
-Formación y orientación Laboral
+Formación y orientación Laboral ![fol](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/d2f07b19-7ca3-42b5-a434-0798826a7c68)
 
-Empresa e iniciativa Emprendedora
+Empresa e iniciativa Emprendedora ![eie](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/344eca52-cd02-41d8-bbc7-0c13225c9a78)
 
-Lengua extranjera para uso profesional
+Lengua extranjera para uso profesional- Informática y Telecomunicaciones
 
 ### Siguientes aptitudes a obtener:
 Programación multimedia y dispositivos móviles
