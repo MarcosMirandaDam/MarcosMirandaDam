@@ -16,19 +16,17 @@ Lenguajes de marcas y sistemas de gestión de información  ![icons8-css3-48](ht
 
 Bases de datos  ![icons8-sql-50](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/23b24588-435b-403b-b72f-b2bef34a4179)![Oracle_SQL_Developer_logo svg](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/31cf6843-194a-4fa6-822a-cb18a39054e7)![mysql](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/0f0a2cf2-cbdc-4f28-ba53-cf57feadee77)![mongo](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/a5772bae-70e8-4a50-85dd-9e010d8e26c4)
 
-Sistemas Informáticos 
-
 Programación  ![java](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/4709a64b-fe13-46c7-8526-9adfe3e7379b)![neatbeans](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/80a8e4ac-2a87-4fc5-adaa-7c335990e496)![eclipse](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/4b2e546a-a9ea-4c6b-98b5-639689c72c78)
-
 
 Entornos de Desarrollo  ![diagrams](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/4b9a5f09-6c29-44dd-bdbc-66a8b9bb406a)![neatbeans](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/d4d72872-d616-4fb0-b7a2-b9c4ba55a674)![eclipse](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/915b0457-bb1c-4b77-9901-741372308ab8)
 
+Sistemas de gestión empresarial ![icons8-postgresql-48](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/f901ba3f-64ef-4b35-a975-5036d799e786)![odoo](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/841296f2-6fb7-4cc8-a150-240c7c830f26)![phpmyadmin](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/ee84e062-a130-442c-a980-264c97588c38)
+
+Sistemas Informáticos 
 
 Formación y orientación Laboral
 
 Empresa e iniciativa Emprendedora
-
-Sistemas de gestión empresarial![icons8-postgresql-48](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/64ff18c0-aaf2-4963-904b-925825607b97)
 
 Lengua extranjera para uso profesional
 
