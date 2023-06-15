@@ -38,7 +38,10 @@ Programación de servicios y procesos
 
 Proyecto de desarrollo de aplicaciones multiplataforma
 
-###Follow me at....
+### Learning at this moment....
+Curso OpenWebinars ------> JavaScript ![icons8-javascript-48](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/af5501f4-4273-4614-b095-14e5393c6e3e)
+
+
 
 
 
