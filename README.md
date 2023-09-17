@@ -30,17 +30,16 @@ Empresa e iniciativa Emprendedora ![eie](https://github.com/MarcosMirandaDam/Mar
 
 Lengua extranjera para uso profesional- Informática y Telecomunicaciones
 
-### Siguientes aptitudes a obtener:
+2023. Realizado.
+Curso OpenWebinars ------> JavaScript ![icons8-javascript-48](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/af5501f4-4273-4614-b095-14e5393c6e3e)
+
+### Learning at this moment.... 2023-2024
 
 Programación multimedia y dispositivos móviles
 
 Programación de servicios y procesos
 
 Proyecto de desarrollo de aplicaciones multiplataforma
-
-### Learning at this moment....
-Curso OpenWebinars ------> JavaScript ![icons8-javascript-48](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/af5501f4-4273-4614-b095-14e5393c6e3e)
-
 
 
 
