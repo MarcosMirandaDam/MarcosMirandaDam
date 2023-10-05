@@ -35,7 +35,9 @@ Curso OpenWebinars ------> JavaScript ![icons8-javascript-48](https://github.com
 
 ### Learning at this moment.... 2023-2024
 
-Programación multimedia y dispositivos móviles ![image](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/87049c89-c509-4692-b349-6097011c4cd3)
+Programación multimedia y dispositivos móviles 
+ANDROID ----->  ![image](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/036b5d98-3bca-4eb7-90d3-9c464cbef239)
+
 
 
 Programación de servicios y procesos
