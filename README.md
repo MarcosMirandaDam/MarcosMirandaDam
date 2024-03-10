@@ -32,6 +32,7 @@ Lengua extranjera para uso profesional- Informática y Telecomunicaciones
 
 2023. Realizado.
 Curso OpenWebinars ------> JavaScript ![icons8-javascript-48](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/af5501f4-4273-4614-b095-14e5393c6e3e)
+
 Curso OpenWebinars ------> JavaScript Patrones de Diseño
 
 ### Learning at this moment.... 2023-2024
