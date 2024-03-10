@@ -32,14 +32,12 @@ Lengua extranjera para uso profesional- Informática y Telecomunicaciones
 
 2023. Realizado.
 Curso OpenWebinars ------> JavaScript ![icons8-javascript-48](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/af5501f4-4273-4614-b095-14e5393c6e3e)
+Curso OpenWebinars ------> JavaScript Patrones de Diseño
 
 ### Learning at this moment.... 2023-2024
 
 Programación multimedia y dispositivos móviles 
 ANDROID ----->  ![image](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/d0dd5d2f-3cc1-4781-9f21-e4e12e836867)
-
-
-
 
 Programación de servicios y procesos
 
