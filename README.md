@@ -39,6 +39,9 @@ Curso OpenWebinars ------> JavaScript Patrones de Diseño
 
 Programación multimedia y dispositivos móviles 
 ANDROID ----->  ![image](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/d0dd5d2f-3cc1-4781-9f21-e4e12e836867)
+JAVASCRIPT------> ![icons8-javascript-48](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/af5501f4-4273-4614-b095-14e5393c6e3e)
+TYPESCRIPT------> ![typescript](https://github.com/MarcosMirandaDam/MarcosMirandaDam/assets/92108541/f58ce501-4b14-43bf-b937-3a08a8373488)
+
 
 Programación de servicios y procesos
 
